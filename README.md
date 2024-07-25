@@ -1,1 +1,2 @@
 # Smart-Clap-Switch-Using-Arduino-UNO-Relay
+This project shows how to control a relay and an LED with an Arduino using sound input. By using an electret microphone module to detect claps, the Arduino reads the sound levels and activates the relay and LED when the sound exceeds a set threshold. This simple setup lets you control devices with a clap, combining basic electronics and programming for practical use.
